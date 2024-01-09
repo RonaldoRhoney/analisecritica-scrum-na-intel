@@ -18,4 +18,8 @@ deficiente e não acompanhava o andamento e evolução da empresa**
 **Buscaria novas formas de gerenciamento de projetos, afim de unir os times e fazer das rotinas, algo mais prazerosos.
 Não visando apenas o resultado final, mas o envolvimento dos times**.
 
+### Minha análise e conclusão:
+Deante de cenarios de plena mudança interna e ou externa, é necessário a busca pelas melhores ferramentas de impulsão de um projeto construção ou negócio em funcionamento. Assim o uso de Fremeworks como Scrum, torna-se essencial para melhor tomada de decisão, mantendo um time forte, unido e apar de todos os incrementos de cada etapa do processo.
+O produc owner de está alinhado com os developers, assim como Scrum Master com os demais. O time torna-se unico e com o mesmo objetivo, stisfazer e coloborar para o melhor entendimento do cliente.
 
+Ronaldo Martins 
